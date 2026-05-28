@@ -10,8 +10,8 @@ O artigo apresenta uma introdução às abordagens off-line e on-line de data au
 <br><br>
 ## 📂 **PROJECT STRUCTURE**
 
-|-- notebook \ Jupyter notebook com o pipeline de treinamento do modelo e arquivos de configuração 
-|-- dataset \ Dataset utilizado no treinamento
+|-- notebook    Jupyter notebook com o pipeline de treinamento do modelo e arquivos de configuração \
+|-- dataset   Dataset utilizado no treinamento \
 <br><br>
 ## 🔗 **ARTICLE LINK**
 https://medium.com/@rodrigoalexandre1981/abordagens-de-data-augmentation-para-deep-learning-conceitos-b%C3%A1sicos-e-implementa%C3%A7%C3%A3o-330ebeb4e8f9
